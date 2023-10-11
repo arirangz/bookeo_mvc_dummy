@@ -2,7 +2,7 @@
 
 use App\Entity\User;
 
-require_once _TEMPLATEPATH_ . '\header.php';
+require_once _TEMPLATEPATH_ . '/header.php';
 /** @var  App\Entity\Book $book */
 ?>
 
@@ -31,17 +31,17 @@ require_once _TEMPLATEPATH_ . '\header.php';
                 <h2>Type : bande dessinée</h2>
             </div>
         </div>
-        <?php require_once _TEMPLATEPATH_ . '\book\_partial_rating.php'; ?>
+        <?php require_once _TEMPLATEPATH_ . '/book/_partial_rating.php'; ?>
     </div>
 </div>
 
 
 <div class="row align-items-start justify-content-center">
 
-    <?php require_once _TEMPLATEPATH_ . '\book\_partial_comments.php'; ?>
+    <?php require_once _TEMPLATEPATH_ . '/book/_partial_comments.php'; ?>
 </div>
 
 
 
 
-<?php require_once _TEMPLATEPATH_ . '\footer.php'; ?>
+<?php require_once _TEMPLATEPATH_ . '/footer.php'; ?>

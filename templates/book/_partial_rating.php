@@ -49,6 +49,8 @@
                 <input type="hidden" name="book_id" value="82">
                 <input type="hidden" name="user_id" value="2">
 
+                <!-- @todo Il ne faut afficher ce champ que si l'utilisateur 
+                    a déjà noté, sinon on de l'affiche pas-->
                 <input type="hidden" name="id" value="8">
 
 
