@@ -6,7 +6,7 @@
 * La base de données contient déjà un jeu de données avec également deux utilisateurs (un administrateur et un utilisateur) :
     * user@test.com, mot de passe : test (à ne pas utiliser sur un site en production :) )
     * admin@test.com, mot de passe : test (à ne pas utiliser sur un site en production :) )
-* Modifiez le fichier db_config.php en y ajoutant les données de votre base de données.
+* Dupliquer le fichier .env.example en .env et le modifier pour mettre les données de votre base de données.
 * Assurez-vous que le site fonctionne en local.
 
 ## Contexte
