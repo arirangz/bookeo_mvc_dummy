@@ -12,7 +12,7 @@
         </div>
     </div>
 </div>
-
+ 
 <h2>Découvez les dernières oeuvres</h2>
 
 <div class="row text-center">
