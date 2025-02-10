@@ -18,7 +18,7 @@
 <div class="row text-center">
     <div class="col-md-4 my-2 d-flex">
         <div class="card">
-            <img src="/uploads/books/3-zai-zai-zai-zai.jpg" class="card-img-top" alt="Zaï Zaï Zaï Zaï">
+            <img src="<?=_BOOKS_IMAGES_FOLDER_; ?>3-zai-zai-zai-zai.jpg" class="card-img-top" alt="Zaï Zaï Zaï Zaï">
             <div class="card-body">
                 <h5 class="card-title">Zaï Zaï Zaï Zaï</h5>
                 <p class="card-text">Au passage à la caisse d'un supermarché, un auteur de bande dessinée réalise qu’il n’a pas s...</p>
@@ -28,7 +28,7 @@
     </div>
     <div class="col-md-4 my-2 d-flex">
         <div class="card">
-            <img src="/uploads/books/2-histoires-courtes.jpg" class="card-img-top" alt="Histoires courtes">
+            <img src="<?=_BOOKS_IMAGES_FOLDER_; ?>2-histoires-courtes.jpg" class="card-img-top" alt="Histoires courtes">
             <div class="card-body">
                 <h5 class="card-title">Histoires courtes</h5>
                 <p class="card-text">Ce volume unique rassemble les nouvelles créées par le maître Junji Ito pour l'éditeur japonais ...</p>
@@ -38,7 +38,7 @@
     </div>
     <div class="col-md-4 my-2 d-flex">
         <div class="card">
-            <img src="/uploads/books/1-1984.jpg" class="card-img-top" alt="1984">
+            <img src="<?=_BOOKS_IMAGES_FOLDER_; ?>1-1984.jpg" class="card-img-top" alt="1984">
             <div class="card-body">
                 <h5 class="card-title">1984</h5>
                 <p class="card-text">L’histoire se passe à Londres en 1984, comme l'indique le titre du roman. Le monde, depuis les gr...</p>
